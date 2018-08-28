@@ -1,6 +1,6 @@
 # FriendFinder
 
-This application utilizes the user's input on a number of questions in order to recommend the most compatible friend for them! This app uses Express and is uploaded onto Heroku to run. You can directly access the application here:(placeholder).
+This application utilizes the user's input on a number of questions in order to recommend the most compatible friend for them! This app uses Express and is uploaded onto Heroku to run. You can directly access the application here: https://sheltered-shore-32692.herokuapp.com/.
 
 ## Getting Started
 
